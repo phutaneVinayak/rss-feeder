@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Title of your Feed</title>
+<link>https://www.yourwebsite.com/</link>
+<description>This is the description of your Feed.</description>
+<item>
+<title>Feed 1</title>
+<link>localhost</link>
+<guid>1</guid>
+<pubDate>Wed, 3 Apr 2024 08:30:32 GMT </pubDate>
+<description>Description for your content.</description>
+</item>
+</channel>
+</rss>
